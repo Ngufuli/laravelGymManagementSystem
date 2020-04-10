@@ -1,0 +1,22 @@
+.navbar-brand {
+    display: none;
+}
+
+body#app-layout2 {
+
+    background-attachment: fixed;
+    background-size: cover;
+    background-image: url('background.jpg');
+}
+
+.navbar-default {
+    display: none;
+}
+
+.panel-default {
+    margin-top: 100px;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-color: #ddd;
+    text-align: center;
+    margin-right: 43px;
+}
